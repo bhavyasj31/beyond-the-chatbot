@@ -1,3 +1,4 @@
+ HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# beyond-the-chatbot
+An AI Tutoring System that goes beyond chatbots — combining logic-building, multi-modal explanations, coding sandbox, adaptive learning, and multilingual support. Students not only learn coding but also solve real-world social problems, build portfolios, and prepare for careers.
+8dc77e198ffcc00ccea0e4c8cbfab69139e913b6
